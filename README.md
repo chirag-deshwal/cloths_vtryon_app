@@ -28,7 +28,14 @@ flutter run -d android
 ### iOS
 ```bash
 flutter run -d ios
+
 ```
+
 
 ## Note on API
 The app uses a generic request structure for VTON models. If using a specific HF Space (via Gradio), the payload structure in `lib/api/api_service.dart` might need adjustment (e.g., matching the `fn_index` or specific JSON keys of the model).
+
+
+## UpcomingUI
+
+![App Screenshot](https://cdn.dribbble.com/userupload/43858842/file/original-05121a7b32d4e4f52ed2248bd82f1bf0.png?resize=1600x1200&vertical=center)
