@@ -1,4 +1,4 @@
-# Virtual Try-On App
+# Virtual Try-On App Based on flutter 
 
 A Flutter application for Virtual Try-On using Hugging Face Inference API.
 
